@@ -26,5 +26,12 @@ namespace DavidCashion.Controllers
 
             return View();
         }
+
+        public ActionResult Weather()
+        {
+            ViewBag.Message = "Your weather page.";
+
+            return View();
+        }
     }
 }

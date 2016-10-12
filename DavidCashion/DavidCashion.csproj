@@ -214,6 +214,9 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <Content Include="Views\Home\Weather.cshtml" />
+    <Content Include="Views\Home\Fishing.cshtml" />
+    <Content Include="Views\Home\Cooking.cshtml" />
+    <Content Include="Views\Home\Canning.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

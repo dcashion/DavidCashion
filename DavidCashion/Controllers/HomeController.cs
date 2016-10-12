@@ -33,5 +33,26 @@ namespace DavidCashion.Controllers
 
             return View();
         }
+
+        public ActionResult Fishing()
+        {
+            ViewBag.message = "Your Fishing Page.";
+
+            return View();
+        }
+
+        public ActionResult Cooking()
+        {
+            ViewBag.Message = "Your Cooking page.";
+
+            return View();
+        }
+
+        public ActionResult Canning()
+        {
+            ViewBag.Message = "Your Canning page.";
+
+            return View();
+        }
     }
 }

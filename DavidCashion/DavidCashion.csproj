@@ -217,6 +217,7 @@
     <Content Include="Views\Home\Fishing.cshtml" />
     <Content Include="Views\Home\Cooking.cshtml" />
     <Content Include="Views\Home\Canning.cshtml" />
+    <Content Include="Views\Home\SendTextMessage.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
